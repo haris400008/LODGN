@@ -1,0 +1,559 @@
+.request-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    width: 1728px;
+    height: 1117px;
+  }
+  .you-currently-have {
+    position: absolute;
+    top: 75.71px;
+    left: 394px;
+    font-size: 28.56px;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    font-family: Poppins;
+    color: #72aa83;
+  }
+  .request-inner,
+  .request-item {
+    position: absolute;
+    top: 159px;
+    left: 402px;
+    background-color: #fff;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.25);
+    border: 1px solid #fff;
+    box-sizing: border-box;
+    width: 1114px;
+    height: 226px;
+  }
+  .request-inner {
+    top: 445px;
+    left: 395px;
+    border-radius: 54px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+    width: 1116px;
+    height: 528px;
+  }
+  .st-judes-hospital {
+    position: absolute;
+    top: 1px;
+    left: 0;
+    font-size: 29.4px;
+    letter-spacing: -0.01em;
+    color: #48af78;
+  }
+  .december,
+  .october,
+  .sarasotafl-33178 {
+    position: absolute;
+    top: 34px;
+    font-weight: 500;
+  }
+  .sarasotafl-33178 {
+    left: 0;
+    font-size: 16.93px;
+  }
+  .december,
+  .october {
+    left: 310px;
+  }
+  .december {
+    left: 403px;
+  }
+  .doubles {
+    letter-spacing: -0.04em;
+  }
+  .singles-10-doubles-container {
+    position: absolute;
+    top: 34px;
+    left: 540px;
+    font-size: 17.58px;
+    font-weight: 500;
+  }
+  .b,
+  .rooms {
+    position: absolute;
+    top: 0;
+    left: 310px;
+    font-size: 27.94px;
+    letter-spacing: -0.02em;
+    color: #48af78;
+  }
+  .rooms {
+    left: 540px;
+    font-size: 29.64px;
+  }
+  .group-child {
+    position: absolute;
+    top: 3.29px;
+    left: 250px;
+    width: 253.16px;
+    height: 55.41px;
+  }
+  .st-judes-hospital-parent {
+    position: absolute;
+    top: 206px;
+    left: 441px;
+    width: 708px;
+    height: 58.7px;
+    font-size: 16.58px;
+  }
+  .st-judes-hospital1 {
+    position: absolute;
+    top: 2.99px;
+    left: 0;
+    font-size: 29.4px;
+    letter-spacing: -0.01em;
+    color: #48af78;
+  }
+  .sarasotafl-331781 {
+    position: absolute;
+    top: 36.06px;
+    left: 0;
+    font-size: 16.93px;
+    font-weight: 500;
+  }
+  .december1,
+  .october1,
+  .singles-10-doubles-container1 {
+    position: absolute;
+    top: 33.78px;
+    left: 292px;
+    font-weight: 500;
+  }
+  .december1,
+  .singles-10-doubles-container1 {
+    left: 390.97px;
+  }
+  .singles-10-doubles-container1 {
+    top: 33.49px;
+    left: 540px;
+    font-size: 17.58px;
+  }
+  .b1,
+  .rooms1 {
+    position: absolute;
+    top: 1.39px;
+    left: 292.2px;
+    font-size: 27.94px;
+    letter-spacing: -0.02em;
+    color: #48af78;
+  }
+  .rooms1 {
+    top: 0;
+    left: 538.69px;
+    font-size: 29.64px;
+  }
+  .group-item {
+    position: absolute;
+    top: 3.68px;
+    left: 250px;
+    width: 253.16px;
+    height: 55.41px;
+  }
+  .st-judes-hospital-group {
+    position: absolute;
+    top: 480px;
+    left: 443px;
+    width: 708px;
+    height: 59.09px;
+    font-size: 16.58px;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 294px;
+    left: 414px;
+    border-radius: 24px 0 0 24px;
+    background-color: #fdf307;
+    border: 1px solid #fdf307;
+    box-sizing: border-box;
+    width: 387px;
+    height: 48px;
+  }
+  .request-child1 {
+    position: absolute;
+    top: 575px;
+    left: 437px;
+    border-radius: 24px;
+    background-color: #44a16f;
+    width: 712px;
+    height: 48px;
+  }
+  .completed,
+  .completed1,
+  .negotiating,
+  .received {
+    position: absolute;
+    letter-spacing: -0.07em;
+    font-weight: 500;
+  }
+  .received {
+    top: 306px;
+    left: 437px;
+    font-size: 16.93px;
+  }
+  .completed,
+  .completed1,
+  .negotiating {
+    top: 307px;
+    left: 881px;
+  }
+  .completed,
+  .completed1 {
+    left: 1226px;
+  }
+  .completed1 {
+    top: 588px;
+    left: 468px;
+    color: #fff;
+  }
+  .line-div,
+  .request-child2 {
+    position: absolute;
+    top: 293.5px;
+    left: 1056.5px;
+    border-right: 1px solid #959595;
+    box-sizing: border-box;
+    width: 1px;
+    height: 49px;
+  }
+  .request-child2 {
+    left: 800.5px;
+  }
+  .group-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.25);
+    width: 296px;
+    height: 1117px;
+  }
+  .lodgn {
+    position: absolute;
+    top: 37.08px;
+    left: 38px;
+    font-size: 35.48px;
+    font-weight: 800;
+    font-family: Lato;
+    color: #323232;
+  }
+  .current-requests,
+  .ongoing-stays,
+  .previous-stays,
+  .reports {
+    position: absolute;
+    left: 19px;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+  }
+  .current-requests {
+    top: 146.95px;
+    font-size: 22.8px;
+    color: #72aa83;
+  }
+  .ongoing-stays,
+  .previous-stays,
+  .reports {
+    top: 227px;
+  }
+  .previous-stays,
+  .reports {
+    top: 306px;
+  }
+  .reports {
+    top: 385px;
+  }
+  .group-child1 {
+    position: absolute;
+    top: 884px;
+    left: 29px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #48af78, #42996b);
+    width: 231px;
+    height: 70px;
+  }
+  .log-out {
+    position: absolute;
+    top: 904px;
+    left: 99px;
+    letter-spacing: -0.05em;
+    font-weight: 600;
+    color: #fff;
+  }
+  .group-child2,
+  .group-child3,
+  .group-child4,
+  .line-icon {
+    position: absolute;
+    top: 200px;
+    left: 19.5px;
+    width: 249.5px;
+    height: 1px;
+  }
+  .group-child2,
+  .group-child3,
+  .group-child4 {
+    top: 281.5px;
+  }
+  .group-child3,
+  .group-child4 {
+    top: 361px;
+  }
+  .group-child4 {
+    top: 441.5px;
+  }
+  .div,
+  .help-desk {
+    position: absolute;
+    top: 966px;
+    left: 108px;
+    font-size: 17.59px;
+    letter-spacing: -0.07em;
+    font-weight: 500;
+    font-family: Lato;
+  }
+  .div {
+    top: 992px;
+    left: 98px;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 296px;
+    height: 1117px;
+    font-size: 22px;
+    color: #494949;
+    font-family: Poppins;
+  }
+  .group-child5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    background-color: #f5f4f4;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    box-sizing: border-box;
+    width: 275px;
+    height: 220px;
+  }
+  .holiday-inn {
+    position: absolute;
+    top: 85px;
+    left: 88px;
+    font-size: 19.12px;
+    letter-spacing: -0.01em;
+    color: #85c371;
+  }
+  .group-child6 {
+    position: absolute;
+    top: 127px;
+    left: 0;
+    border-radius: 10px;
+    background-color: #eee;
+    box-shadow: 0-2px 8px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    box-sizing: border-box;
+    width: 275px;
+    height: 93px;
+  }
+  .vector-icon {
+    position: absolute;
+    top: 19.5px;
+    left: 113.5px;
+    width: 53px;
+    height: 58px;
+  }
+  .doubles-145,
+  .miles-away-from,
+  .singles-120 {
+    position: absolute;
+    letter-spacing: -0.07em;
+    font-weight: 500;
+  }
+  .miles-away-from {
+    top: 139.12px;
+    left: 23px;
+    font-family: Lato;
+  }
+  .doubles-145,
+  .singles-120 {
+    top: 170.74px;
+    left: 15px;
+    font-size: 15.23px;
+  }
+  .doubles-145 {
+    top: 188px;
+  }
+  .group-child7 {
+    position: absolute;
+    top: 171px;
+    left: 138px;
+    border-radius: 10px;
+    background-color: #44a16f;
+    width: 126px;
+    height: 40px;
+  }
+  .book-now {
+    position: absolute;
+    top: 180px;
+    left: 164px;
+    letter-spacing: -0.07em;
+    font-weight: 500;
+    font-family: Lato;
+    color: #fff;
+  }
+  .rectangle-container,
+  .rectangle-group {
+    position: absolute;
+    top: 685px;
+    left: 820px;
+    width: 275px;
+    height: 220px;
+    font-size: 17.59px;
+    font-family: Poppins;
+  }
+  .rectangle-container {
+    left: 1198px;
+  }
+  .group-child12 {
+    position: absolute;
+    top: 20px;
+    left: -1px;
+    border-radius: 10px;
+    background-color: #f5f4f4;
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    box-sizing: border-box;
+    width: 277px;
+    height: 222px;
+  }
+  .holiday-inn2 {
+    position: absolute;
+    top: 106px;
+    left: 88px;
+    font-size: 19.12px;
+    letter-spacing: -0.01em;
+    color: #85c371;
+  }
+  .group-child13 {
+    position: absolute;
+    top: 148px;
+    left: 0;
+    border-radius: 10px;
+    background-color: #eee;
+    box-shadow: 0-2px 8px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(0, 0, 0, 0.18);
+    box-sizing: border-box;
+    width: 275px;
+    height: 93px;
+  }
+  .group-child14 {
+    position: absolute;
+    top: 40.5px;
+    left: 113.5px;
+    width: 53px;
+    height: 58px;
+  }
+  .doubles-1452,
+  .miles-away-from2,
+  .singles-1202 {
+    position: absolute;
+    letter-spacing: -0.07em;
+    font-weight: 500;
+  }
+  .miles-away-from2 {
+    top: 160.12px;
+    left: 23px;
+    font-family: Lato;
+  }
+  .doubles-1452,
+  .singles-1202 {
+    top: 191.74px;
+    left: 15px;
+    font-size: 15.23px;
+  }
+  .doubles-1452 {
+    top: 209px;
+  }
+  .group-child15 {
+    position: absolute;
+    top: 192px;
+    left: 138px;
+    border-radius: 10px;
+    background-color: #44a16f;
+    width: 126px;
+    height: 40px;
+  }
+  .book-now2 {
+    position: absolute;
+    top: 201px;
+    left: 164px;
+    letter-spacing: -0.07em;
+    font-weight: 500;
+    font-family: Lato;
+    color: #fff;
+  }
+  .group-child16 {
+    position: absolute;
+    top: 0;
+    left: 193px;
+    border-radius: 10px;
+    background-color: #d96a6b;
+    width: 127px;
+    height: 40px;
+  }
+  .rare-find {
+    position: absolute;
+    top: 10px;
+    left: 224px;
+    font-size: 13.35px;
+    letter-spacing: -0.01em;
+    font-weight: 500;
+    color: #fff;
+  }
+  .group-div,
+  .rectangle-parent1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 320px;
+    height: 241px;
+  }
+  .group-div {
+    top: 664px;
+    left: 437px;
+    font-size: 17.59px;
+    font-family: Poppins;
+  }
+  .request-child3 {
+    position: absolute;
+    top: 294px;
+    left: 414px;
+    border-radius: 24px;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    width: 1072px;
+    height: 48px;
+  }
+  .group-icon {
+    position: absolute;
+    top: 859px;
+    left: 1550px;
+    width: 138px;
+    height: 138px;
+  }
+  .request {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 1117px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16.1px;
+    color: #959595;
+    font-family: Lato;
+  }
+  
